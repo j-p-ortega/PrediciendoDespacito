@@ -17,6 +17,6 @@ Este es el proyecto final para la materia de Introducción a la Inteligencia Art
  - Archivo de requerimientos para el notebook: [`requirements.txt`](https://github.com/smolinad/ProyectoFinalIA/blob/main/requirements.txt)
  - Reporte escrito: [`Prediciendo Despacito.pdf`](https://github.com/smolinad/ProyectoFinalIA/blob/main/Prediciendo%20Despacito.pdf)
  - Base de datos de canciones: [`spotify_songs.csv`](https://github.com/smolinad/ProyectoFinalIA/blob/main/spotify_songs.csv)
- - Video de presentación: [Prediciendo Depacito - Presentación @ Youtube]()
+ - Video de presentación: [Prediciendo Depacito - Presentación @ Youtube](https://youtu.be/29BUOgh-bUY)
  
  Refiérase al notebook y al reporte escrito para información adicional.
